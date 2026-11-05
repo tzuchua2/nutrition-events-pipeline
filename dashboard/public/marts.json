@@ -1,0 +1,1115 @@
+{
+ "generated_at": "2026-11-05T19:37:58.072211+00:00",
+ "synthetic_data": true,
+ "daily_active_users": [
+  {
+   "event_date": "2026-09-01",
+   "platform": "android",
+   "active_users": 15,
+   "events": 67
+  },
+  {
+   "event_date": "2026-09-01",
+   "platform": "ios",
+   "active_users": 9,
+   "events": 50
+  },
+  {
+   "event_date": "2026-09-01",
+   "platform": "web",
+   "active_users": 4,
+   "events": 16
+  },
+  {
+   "event_date": "2026-09-02",
+   "platform": "android",
+   "active_users": 9,
+   "events": 40
+  },
+  {
+   "event_date": "2026-09-02",
+   "platform": "ios",
+   "active_users": 10,
+   "events": 48
+  },
+  {
+   "event_date": "2026-09-02",
+   "platform": "web",
+   "active_users": 3,
+   "events": 15
+  },
+  {
+   "event_date": "2026-09-03",
+   "platform": "android",
+   "active_users": 10,
+   "events": 51
+  },
+  {
+   "event_date": "2026-09-03",
+   "platform": "ios",
+   "active_users": 16,
+   "events": 64
+  },
+  {
+   "event_date": "2026-09-03",
+   "platform": "web",
+   "active_users": 3,
+   "events": 22
+  },
+  {
+   "event_date": "2026-09-04",
+   "platform": "android",
+   "active_users": 16,
+   "events": 98
+  },
+  {
+   "event_date": "2026-09-04",
+   "platform": "ios",
+   "active_users": 15,
+   "events": 67
+  },
+  {
+   "event_date": "2026-09-04",
+   "platform": "web",
+   "active_users": 6,
+   "events": 36
+  },
+  {
+   "event_date": "2026-09-05",
+   "platform": "android",
+   "active_users": 9,
+   "events": 42
+  },
+  {
+   "event_date": "2026-09-05",
+   "platform": "ios",
+   "active_users": 13,
+   "events": 59
+  },
+  {
+   "event_date": "2026-09-05",
+   "platform": "web",
+   "active_users": 6,
+   "events": 33
+  },
+  {
+   "event_date": "2026-09-06",
+   "platform": "android",
+   "active_users": 7,
+   "events": 35
+  },
+  {
+   "event_date": "2026-09-06",
+   "platform": "ios",
+   "active_users": 14,
+   "events": 74
+  },
+  {
+   "event_date": "2026-09-06",
+   "platform": "web",
+   "active_users": 5,
+   "events": 34
+  },
+  {
+   "event_date": "2026-09-07",
+   "platform": "android",
+   "active_users": 17,
+   "events": 85
+  },
+  {
+   "event_date": "2026-09-07",
+   "platform": "ios",
+   "active_users": 13,
+   "events": 55
+  },
+  {
+   "event_date": "2026-09-07",
+   "platform": "web",
+   "active_users": 7,
+   "events": 28
+  },
+  {
+   "event_date": "2026-09-08",
+   "platform": "android",
+   "active_users": 9,
+   "events": 50
+  },
+  {
+   "event_date": "2026-09-08",
+   "platform": "ios",
+   "active_users": 17,
+   "events": 93
+  },
+  {
+   "event_date": "2026-09-08",
+   "platform": "web",
+   "active_users": 6,
+   "events": 23
+  },
+  {
+   "event_date": "2026-09-09",
+   "platform": "android",
+   "active_users": 12,
+   "events": 70
+  },
+  {
+   "event_date": "2026-09-09",
+   "platform": "ios",
+   "active_users": 28,
+   "events": 149
+  },
+  {
+   "event_date": "2026-09-09",
+   "platform": "web",
+   "active_users": 9,
+   "events": 53
+  },
+  {
+   "event_date": "2026-09-10",
+   "platform": "android",
+   "active_users": 10,
+   "events": 39
+  },
+  {
+   "event_date": "2026-09-10",
+   "platform": "ios",
+   "active_users": 17,
+   "events": 82
+  },
+  {
+   "event_date": "2026-09-10",
+   "platform": "web",
+   "active_users": 5,
+   "events": 28
+  },
+  {
+   "event_date": "2026-09-11",
+   "platform": "android",
+   "active_users": 13,
+   "events": 64
+  },
+  {
+   "event_date": "2026-09-11",
+   "platform": "ios",
+   "active_users": 16,
+   "events": 75
+  },
+  {
+   "event_date": "2026-09-11",
+   "platform": "web",
+   "active_users": 6,
+   "events": 38
+  },
+  {
+   "event_date": "2026-09-12",
+   "platform": "android",
+   "active_users": 12,
+   "events": 53
+  },
+  {
+   "event_date": "2026-09-12",
+   "platform": "ios",
+   "active_users": 11,
+   "events": 61
+  },
+  {
+   "event_date": "2026-09-12",
+   "platform": "web",
+   "active_users": 8,
+   "events": 41
+  },
+  {
+   "event_date": "2026-09-13",
+   "platform": "android",
+   "active_users": 12,
+   "events": 56
+  },
+  {
+   "event_date": "2026-09-13",
+   "platform": "ios",
+   "active_users": 29,
+   "events": 136
+  },
+  {
+   "event_date": "2026-09-13",
+   "platform": "web",
+   "active_users": 6,
+   "events": 23
+  },
+  {
+   "event_date": "2026-09-14",
+   "platform": "android",
+   "active_users": 16,
+   "events": 95
+  },
+  {
+   "event_date": "2026-09-14",
+   "platform": "ios",
+   "active_users": 18,
+   "events": 106
+  },
+  {
+   "event_date": "2026-09-14",
+   "platform": "web",
+   "active_users": 8,
+   "events": 44
+  },
+  {
+   "event_date": "2026-09-15",
+   "platform": "android",
+   "active_users": 13,
+   "events": 88
+  },
+  {
+   "event_date": "2026-09-15",
+   "platform": "ios",
+   "active_users": 23,
+   "events": 109
+  },
+  {
+   "event_date": "2026-09-15",
+   "platform": "web",
+   "active_users": 11,
+   "events": 40
+  },
+  {
+   "event_date": "2026-09-16",
+   "platform": "android",
+   "active_users": 20,
+   "events": 105
+  },
+  {
+   "event_date": "2026-09-16",
+   "platform": "ios",
+   "active_users": 25,
+   "events": 133
+  },
+  {
+   "event_date": "2026-09-16",
+   "platform": "web",
+   "active_users": 10,
+   "events": 42
+  },
+  {
+   "event_date": "2026-09-17",
+   "platform": "android",
+   "active_users": 21,
+   "events": 91
+  },
+  {
+   "event_date": "2026-09-17",
+   "platform": "ios",
+   "active_users": 25,
+   "events": 119
+  },
+  {
+   "event_date": "2026-09-17",
+   "platform": "web",
+   "active_users": 13,
+   "events": 79
+  },
+  {
+   "event_date": "2026-09-18",
+   "platform": "android",
+   "active_users": 15,
+   "events": 81
+  },
+  {
+   "event_date": "2026-09-18",
+   "platform": "ios",
+   "active_users": 18,
+   "events": 93
+  },
+  {
+   "event_date": "2026-09-18",
+   "platform": "web",
+   "active_users": 6,
+   "events": 38
+  },
+  {
+   "event_date": "2026-09-19",
+   "platform": "android",
+   "active_users": 21,
+   "events": 108
+  },
+  {
+   "event_date": "2026-09-19",
+   "platform": "ios",
+   "active_users": 23,
+   "events": 111
+  },
+  {
+   "event_date": "2026-09-19",
+   "platform": "web",
+   "active_users": 8,
+   "events": 47
+  },
+  {
+   "event_date": "2026-09-20",
+   "platform": "android",
+   "active_users": 14,
+   "events": 53
+  },
+  {
+   "event_date": "2026-09-20",
+   "platform": "ios",
+   "active_users": 19,
+   "events": 92
+  },
+  {
+   "event_date": "2026-09-20",
+   "platform": "web",
+   "active_users": 15,
+   "events": 67
+  },
+  {
+   "event_date": "2026-09-21",
+   "platform": "android",
+   "active_users": 17,
+   "events": 80
+  },
+  {
+   "event_date": "2026-09-21",
+   "platform": "ios",
+   "active_users": 29,
+   "events": 134
+  },
+  {
+   "event_date": "2026-09-21",
+   "platform": "web",
+   "active_users": 14,
+   "events": 71
+  },
+  {
+   "event_date": "2026-09-22",
+   "platform": "android",
+   "active_users": 9,
+   "events": 34
+  },
+  {
+   "event_date": "2026-09-22",
+   "platform": "ios",
+   "active_users": 27,
+   "events": 132
+  },
+  {
+   "event_date": "2026-09-22",
+   "platform": "web",
+   "active_users": 11,
+   "events": 66
+  },
+  {
+   "event_date": "2026-09-23",
+   "platform": "android",
+   "active_users": 22,
+   "events": 96
+  },
+  {
+   "event_date": "2026-09-23",
+   "platform": "ios",
+   "active_users": 34,
+   "events": 170
+  },
+  {
+   "event_date": "2026-09-23",
+   "platform": "web",
+   "active_users": 12,
+   "events": 66
+  },
+  {
+   "event_date": "2026-09-24",
+   "platform": "android",
+   "active_users": 18,
+   "events": 84
+  },
+  {
+   "event_date": "2026-09-24",
+   "platform": "ios",
+   "active_users": 29,
+   "events": 145
+  },
+  {
+   "event_date": "2026-09-24",
+   "platform": "web",
+   "active_users": 9,
+   "events": 43
+  },
+  {
+   "event_date": "2026-09-25",
+   "platform": "android",
+   "active_users": 16,
+   "events": 79
+  },
+  {
+   "event_date": "2026-09-25",
+   "platform": "ios",
+   "active_users": 25,
+   "events": 123
+  },
+  {
+   "event_date": "2026-09-25",
+   "platform": "web",
+   "active_users": 7,
+   "events": 36
+  },
+  {
+   "event_date": "2026-09-26",
+   "platform": "android",
+   "active_users": 22,
+   "events": 101
+  },
+  {
+   "event_date": "2026-09-26",
+   "platform": "ios",
+   "active_users": 26,
+   "events": 136
+  },
+  {
+   "event_date": "2026-09-26",
+   "platform": "web",
+   "active_users": 12,
+   "events": 56
+  },
+  {
+   "event_date": "2026-09-27",
+   "platform": "android",
+   "active_users": 24,
+   "events": 129
+  },
+  {
+   "event_date": "2026-09-27",
+   "platform": "ios",
+   "active_users": 28,
+   "events": 117
+  },
+  {
+   "event_date": "2026-09-27",
+   "platform": "web",
+   "active_users": 13,
+   "events": 64
+  },
+  {
+   "event_date": "2026-09-28",
+   "platform": "android",
+   "active_users": 27,
+   "events": 124
+  },
+  {
+   "event_date": "2026-09-28",
+   "platform": "ios",
+   "active_users": 30,
+   "events": 167
+  },
+  {
+   "event_date": "2026-09-28",
+   "platform": "web",
+   "active_users": 9,
+   "events": 43
+  },
+  {
+   "event_date": "2026-09-29",
+   "platform": "android",
+   "active_users": 27,
+   "events": 142
+  },
+  {
+   "event_date": "2026-09-29",
+   "platform": "ios",
+   "active_users": 31,
+   "events": 150
+  },
+  {
+   "event_date": "2026-09-29",
+   "platform": "web",
+   "active_users": 10,
+   "events": 53
+  },
+  {
+   "event_date": "2026-09-30",
+   "platform": "android",
+   "active_users": 15,
+   "events": 72
+  },
+  {
+   "event_date": "2026-09-30",
+   "platform": "ios",
+   "active_users": 23,
+   "events": 108
+  },
+  {
+   "event_date": "2026-09-30",
+   "platform": "web",
+   "active_users": 13,
+   "events": 72
+  },
+  {
+   "event_date": "2026-10-01",
+   "platform": "android",
+   "active_users": 27,
+   "events": 112
+  },
+  {
+   "event_date": "2026-10-01",
+   "platform": "ios",
+   "active_users": 26,
+   "events": 123
+  },
+  {
+   "event_date": "2026-10-01",
+   "platform": "web",
+   "active_users": 14,
+   "events": 71
+  },
+  {
+   "event_date": "2026-10-02",
+   "platform": "android",
+   "active_users": 26,
+   "events": 103
+  },
+  {
+   "event_date": "2026-10-02",
+   "platform": "ios",
+   "active_users": 27,
+   "events": 143
+  },
+  {
+   "event_date": "2026-10-02",
+   "platform": "web",
+   "active_users": 11,
+   "events": 63
+  },
+  {
+   "event_date": "2026-10-03",
+   "platform": "android",
+   "active_users": 22,
+   "events": 117
+  },
+  {
+   "event_date": "2026-10-03",
+   "platform": "ios",
+   "active_users": 29,
+   "events": 120
+  },
+  {
+   "event_date": "2026-10-03",
+   "platform": "web",
+   "active_users": 7,
+   "events": 23
+  },
+  {
+   "event_date": "2026-10-04",
+   "platform": "android",
+   "active_users": 29,
+   "events": 142
+  },
+  {
+   "event_date": "2026-10-04",
+   "platform": "ios",
+   "active_users": 24,
+   "events": 98
+  },
+  {
+   "event_date": "2026-10-04",
+   "platform": "web",
+   "active_users": 13,
+   "events": 70
+  },
+  {
+   "event_date": "2026-10-05",
+   "platform": "android",
+   "active_users": 31,
+   "events": 149
+  },
+  {
+   "event_date": "2026-10-05",
+   "platform": "ios",
+   "active_users": 37,
+   "events": 155
+  },
+  {
+   "event_date": "2026-10-05",
+   "platform": "web",
+   "active_users": 8,
+   "events": 38
+  },
+  {
+   "event_date": "2026-10-06",
+   "platform": "android",
+   "active_users": 31,
+   "events": 138
+  },
+  {
+   "event_date": "2026-10-06",
+   "platform": "ios",
+   "active_users": 38,
+   "events": 157
+  },
+  {
+   "event_date": "2026-10-06",
+   "platform": "web",
+   "active_users": 11,
+   "events": 49
+  },
+  {
+   "event_date": "2026-10-07",
+   "platform": "android",
+   "active_users": 24,
+   "events": 121
+  },
+  {
+   "event_date": "2026-10-07",
+   "platform": "ios",
+   "active_users": 38,
+   "events": 165
+  },
+  {
+   "event_date": "2026-10-07",
+   "platform": "web",
+   "active_users": 13,
+   "events": 58
+  },
+  {
+   "event_date": "2026-10-08",
+   "platform": "android",
+   "active_users": 22,
+   "events": 96
+  },
+  {
+   "event_date": "2026-10-08",
+   "platform": "ios",
+   "active_users": 26,
+   "events": 140
+  },
+  {
+   "event_date": "2026-10-08",
+   "platform": "web",
+   "active_users": 10,
+   "events": 57
+  },
+  {
+   "event_date": "2026-10-09",
+   "platform": "android",
+   "active_users": 26,
+   "events": 102
+  },
+  {
+   "event_date": "2026-10-09",
+   "platform": "ios",
+   "active_users": 25,
+   "events": 104
+  },
+  {
+   "event_date": "2026-10-09",
+   "platform": "web",
+   "active_users": 10,
+   "events": 44
+  },
+  {
+   "event_date": "2026-10-10",
+   "platform": "android",
+   "active_users": 17,
+   "events": 81
+  },
+  {
+   "event_date": "2026-10-10",
+   "platform": "ios",
+   "active_users": 29,
+   "events": 151
+  },
+  {
+   "event_date": "2026-10-10",
+   "platform": "web",
+   "active_users": 13,
+   "events": 73
+  },
+  {
+   "event_date": "2026-10-11",
+   "platform": "android",
+   "active_users": 34,
+   "events": 148
+  },
+  {
+   "event_date": "2026-10-11",
+   "platform": "ios",
+   "active_users": 32,
+   "events": 176
+  },
+  {
+   "event_date": "2026-10-11",
+   "platform": "web",
+   "active_users": 13,
+   "events": 64
+  },
+  {
+   "event_date": "2026-10-12",
+   "platform": "android",
+   "active_users": 23,
+   "events": 117
+  },
+  {
+   "event_date": "2026-10-12",
+   "platform": "ios",
+   "active_users": 26,
+   "events": 128
+  },
+  {
+   "event_date": "2026-10-12",
+   "platform": "web",
+   "active_users": 11,
+   "events": 43
+  }
+ ],
+ "funnel": [
+  {
+   "dietary_goal": "balanced",
+   "opened": 400,
+   "searched": 324,
+   "viewed": 324,
+   "added_to_plan": 195,
+   "completed_plan": 123,
+   "search_rate": 0.81,
+   "view_rate": 1.0,
+   "add_rate": 0.602,
+   "completion_rate": 0.631
+  },
+  {
+   "dietary_goal": "diabetes_friendly",
+   "opened": 353,
+   "searched": 283,
+   "viewed": 283,
+   "added_to_plan": 167,
+   "completed_plan": 120,
+   "search_rate": 0.802,
+   "view_rate": 1.0,
+   "add_rate": 0.59,
+   "completion_rate": 0.719
+  },
+  {
+   "dietary_goal": "heart_healthy",
+   "opened": 511,
+   "searched": 428,
+   "viewed": 428,
+   "added_to_plan": 286,
+   "completed_plan": 159,
+   "search_rate": 0.838,
+   "view_rate": 1.0,
+   "add_rate": 0.668,
+   "completion_rate": 0.556
+  },
+  {
+   "dietary_goal": "high_protein",
+   "opened": 478,
+   "searched": 389,
+   "viewed": 389,
+   "added_to_plan": 227,
+   "completed_plan": 137,
+   "search_rate": 0.814,
+   "view_rate": 1.0,
+   "add_rate": 0.584,
+   "completion_rate": 0.604
+  },
+  {
+   "dietary_goal": "low_sodium",
+   "opened": 425,
+   "searched": 350,
+   "viewed": 350,
+   "added_to_plan": 217,
+   "completed_plan": 124,
+   "search_rate": 0.824,
+   "view_rate": 1.0,
+   "add_rate": 0.62,
+   "completion_rate": 0.571
+  }
+ ],
+ "retention": [
+  {
+   "signup_week": "2026-08-31T00:00:00",
+   "weeks_since_signup": 0,
+   "cohort_size": 97,
+   "active_users": 97,
+   "retention_rate": 1.0
+  },
+  {
+   "signup_week": "2026-08-31T00:00:00",
+   "weeks_since_signup": 1,
+   "cohort_size": 97,
+   "active_users": 74,
+   "retention_rate": 0.763
+  },
+  {
+   "signup_week": "2026-08-31T00:00:00",
+   "weeks_since_signup": 2,
+   "cohort_size": 97,
+   "active_users": 77,
+   "retention_rate": 0.794
+  },
+  {
+   "signup_week": "2026-08-31T00:00:00",
+   "weeks_since_signup": 3,
+   "cohort_size": 97,
+   "active_users": 75,
+   "retention_rate": 0.773
+  },
+  {
+   "signup_week": "2026-08-31T00:00:00",
+   "weeks_since_signup": 4,
+   "cohort_size": 97,
+   "active_users": 74,
+   "retention_rate": 0.763
+  },
+  {
+   "signup_week": "2026-08-31T00:00:00",
+   "weeks_since_signup": 5,
+   "cohort_size": 97,
+   "active_users": 77,
+   "retention_rate": 0.794
+  },
+  {
+   "signup_week": "2026-08-31T00:00:00",
+   "weeks_since_signup": 6,
+   "cohort_size": 97,
+   "active_users": 23,
+   "retention_rate": 0.237
+  },
+  {
+   "signup_week": "2026-09-07T00:00:00",
+   "weeks_since_signup": 0,
+   "cohort_size": 63,
+   "active_users": 63,
+   "retention_rate": 1.0
+  },
+  {
+   "signup_week": "2026-09-07T00:00:00",
+   "weeks_since_signup": 1,
+   "cohort_size": 63,
+   "active_users": 48,
+   "retention_rate": 0.762
+  },
+  {
+   "signup_week": "2026-09-07T00:00:00",
+   "weeks_since_signup": 2,
+   "cohort_size": 63,
+   "active_users": 44,
+   "retention_rate": 0.698
+  },
+  {
+   "signup_week": "2026-09-07T00:00:00",
+   "weeks_since_signup": 3,
+   "cohort_size": 63,
+   "active_users": 46,
+   "retention_rate": 0.73
+  },
+  {
+   "signup_week": "2026-09-07T00:00:00",
+   "weeks_since_signup": 4,
+   "cohort_size": 63,
+   "active_users": 44,
+   "retention_rate": 0.698
+  },
+  {
+   "signup_week": "2026-09-07T00:00:00",
+   "weeks_since_signup": 5,
+   "cohort_size": 63,
+   "active_users": 12,
+   "retention_rate": 0.19
+  },
+  {
+   "signup_week": "2026-09-14T00:00:00",
+   "weeks_since_signup": 0,
+   "cohort_size": 59,
+   "active_users": 59,
+   "retention_rate": 1.0
+  },
+  {
+   "signup_week": "2026-09-14T00:00:00",
+   "weeks_since_signup": 1,
+   "cohort_size": 59,
+   "active_users": 44,
+   "retention_rate": 0.746
+  },
+  {
+   "signup_week": "2026-09-14T00:00:00",
+   "weeks_since_signup": 2,
+   "cohort_size": 59,
+   "active_users": 42,
+   "retention_rate": 0.712
+  },
+  {
+   "signup_week": "2026-09-14T00:00:00",
+   "weeks_since_signup": 3,
+   "cohort_size": 59,
+   "active_users": 42,
+   "retention_rate": 0.712
+  },
+  {
+   "signup_week": "2026-09-14T00:00:00",
+   "weeks_since_signup": 4,
+   "cohort_size": 59,
+   "active_users": 10,
+   "retention_rate": 0.169
+  },
+  {
+   "signup_week": "2026-09-21T00:00:00",
+   "weeks_since_signup": 0,
+   "cohort_size": 38,
+   "active_users": 38,
+   "retention_rate": 1.0
+  },
+  {
+   "signup_week": "2026-09-21T00:00:00",
+   "weeks_since_signup": 1,
+   "cohort_size": 38,
+   "active_users": 24,
+   "retention_rate": 0.632
+  },
+  {
+   "signup_week": "2026-09-21T00:00:00",
+   "weeks_since_signup": 2,
+   "cohort_size": 38,
+   "active_users": 31,
+   "retention_rate": 0.816
+  },
+  {
+   "signup_week": "2026-09-21T00:00:00",
+   "weeks_since_signup": 3,
+   "cohort_size": 38,
+   "active_users": 6,
+   "retention_rate": 0.158
+  },
+  {
+   "signup_week": "2026-09-28T00:00:00",
+   "weeks_since_signup": 0,
+   "cohort_size": 38,
+   "active_users": 38,
+   "retention_rate": 1.0
+  },
+  {
+   "signup_week": "2026-09-28T00:00:00",
+   "weeks_since_signup": 1,
+   "cohort_size": 38,
+   "active_users": 29,
+   "retention_rate": 0.763
+  },
+  {
+   "signup_week": "2026-09-28T00:00:00",
+   "weeks_since_signup": 2,
+   "cohort_size": 38,
+   "active_users": 9,
+   "retention_rate": 0.237
+  },
+  {
+   "signup_week": "2026-10-05T00:00:00",
+   "weeks_since_signup": 0,
+   "cohort_size": 5,
+   "active_users": 5,
+   "retention_rate": 1.0
+  }
+ ],
+ "top_recipes": [
+  {
+   "recipe_id": "recipe_034",
+   "views": 83,
+   "adds_to_plan": 34,
+   "add_rate": 0.41,
+   "popularity_rank": 1
+  },
+  {
+   "recipe_id": "recipe_019",
+   "views": 78,
+   "adds_to_plan": 33,
+   "add_rate": 0.423,
+   "popularity_rank": 2
+  },
+  {
+   "recipe_id": "recipe_020",
+   "views": 81,
+   "adds_to_plan": 33,
+   "add_rate": 0.407,
+   "popularity_rank": 2
+  },
+  {
+   "recipe_id": "recipe_031",
+   "views": 86,
+   "adds_to_plan": 33,
+   "add_rate": 0.384,
+   "popularity_rank": 2
+  },
+  {
+   "recipe_id": "recipe_049",
+   "views": 74,
+   "adds_to_plan": 33,
+   "add_rate": 0.446,
+   "popularity_rank": 2
+  },
+  {
+   "recipe_id": "recipe_027",
+   "views": 81,
+   "adds_to_plan": 32,
+   "add_rate": 0.395,
+   "popularity_rank": 6
+  },
+  {
+   "recipe_id": "recipe_010",
+   "views": 80,
+   "adds_to_plan": 31,
+   "add_rate": 0.388,
+   "popularity_rank": 7
+  },
+  {
+   "recipe_id": "recipe_022",
+   "views": 75,
+   "adds_to_plan": 31,
+   "add_rate": 0.413,
+   "popularity_rank": 7
+  },
+  {
+   "recipe_id": "recipe_033",
+   "views": 75,
+   "adds_to_plan": 31,
+   "add_rate": 0.413,
+   "popularity_rank": 7
+  },
+  {
+   "recipe_id": "recipe_006",
+   "views": 80,
+   "adds_to_plan": 30,
+   "add_rate": 0.375,
+   "popularity_rank": 10
+  },
+  {
+   "recipe_id": "recipe_016",
+   "views": 77,
+   "adds_to_plan": 30,
+   "add_rate": 0.39,
+   "popularity_rank": 10
+  },
+  {
+   "recipe_id": "recipe_044",
+   "views": 79,
+   "adds_to_plan": 30,
+   "add_rate": 0.38,
+   "popularity_rank": 10
+  },
+  {
+   "recipe_id": "recipe_052",
+   "views": 66,
+   "adds_to_plan": 30,
+   "add_rate": 0.455,
+   "popularity_rank": 10
+  },
+  {
+   "recipe_id": "recipe_058",
+   "views": 96,
+   "adds_to_plan": 30,
+   "add_rate": 0.313,
+   "popularity_rank": 10
+  }
+ ],
+ "quality": [
+  {
+   "landed": 10665,
+   "valid_unique": 10526,
+   "rejected": 33
+  }
+ ]
+}

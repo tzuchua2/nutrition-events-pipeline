@@ -1,0 +1,34 @@
+version: 2
+models:
+  - name: stg_events
+    description: Validated, de-duplicated events.
+    columns:
+      - name: event_id
+        tests: [unique, not_null]
+      - name: user_id
+        tests: [not_null]
+      - name: event_type
+        tests:
+          - accepted_values:
+              values: [app_opened, recipe_searched, recipe_viewed, meal_added_to_plan, plan_completed]
+      - name: platform
+        tests:
+          - accepted_values:
+              values: [ios, android, web]
+  - name: dim_users
+    columns:
+      - name: user_id
+        tests: [unique, not_null]
+  - name: fct_funnel
+    columns:
+      - name: dietary_goal
+        tests: [unique, not_null]
+  - name: fct_weekly_retention
+    columns:
+      - name: retention_rate
+        tests:
+          - between_0_and_1
+  - name: fct_top_recipes
+    columns:
+      - name: recipe_id
+        tests: [unique, not_null]

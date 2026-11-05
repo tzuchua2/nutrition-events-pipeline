@@ -1,0 +1,13 @@
+.venv/
+.venv-airflow/
+.airflow/
+data/*.duckdb*
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+logs/
+dashboard/node_modules/
+dashboard/dist/
+__pycache__/
+.pytest_cache/
+dbt/.user.yml

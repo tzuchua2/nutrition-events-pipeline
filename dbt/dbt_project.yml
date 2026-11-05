@@ -1,0 +1,10 @@
+name: nutrition_events
+version: "1.0.0"
+config-version: 2
+profile: nutrition_events
+model-paths: ["models"]
+test-paths: ["tests"]
+models:
+  nutrition_events:
+    staging: {+materialized: view}
+    marts: {+materialized: table}

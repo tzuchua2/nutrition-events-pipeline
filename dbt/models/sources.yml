@@ -1,0 +1,10 @@
+version: 2
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: events
+        description: Untouched Kafka messages landed by consumer/consume.py (one row per topic/partition/offset).
+        columns:
+          - name: kafka_offset
+            tests: [not_null]
